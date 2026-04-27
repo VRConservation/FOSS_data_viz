@@ -16,7 +16,7 @@ project:
     - file: 03-viz_primer.ipynb
     - file: 04-eda.ipynb
     - file: 05-charts.ipynb
-    - file: 06-qgis.ipynb
+    - file: 06-gnb.ipynb
     - file: 07-workflows.ipynb
     - file: 08-resources.ipynb
     
